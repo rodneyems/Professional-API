@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "outDir": "./dist",
+        "module": "commonjs",
+        "target": "es2019", //VERSION NODE SV
+        "esModuleInterop": true, //CONVERTS CODE TO KNOWN STANDARD
+        "allowJs": true //ALLOWS .JS FILES WITH CONFIGS (STANDARD IS JSON)
+    }
+}
