@@ -4,7 +4,8 @@
   "description": "API with NodeJs, Typescript, TDD, Clean Architecture and SOLID",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "test:staged": "jest"
   },
   "repository": {
     "type": "git",
