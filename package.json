@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/rodneyems/Professional-API/issues"
   },
-  "homepage": "https://github.com/rodneyems/Professional-API#readme"
+  "homepage": "https://github.com/rodneyems/Professional-API#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^3.0.0"
+  }
 }
